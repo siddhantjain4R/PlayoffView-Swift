@@ -1,0 +1,109 @@
+{
+	"matches": [
+		{
+			"match_id": 1,
+			"home_team": "France",
+			"away_team": "Croatia",
+			"stage": "Final",
+			"seed": 0
+		},
+		{
+			"match_id": 2,
+			"home_team": "France",
+			"away_team": "Belgium",
+			"stage": "Semifinal",
+			"seed": 0
+		},
+		{
+			"match_id": 3,
+			"home_team": "Croatia",
+			"away_team": "England",
+			"stage": "Semifinal",
+			"seed": 1
+		},
+		{
+			"match_id": 4,
+			"home_team": "Uruguay",
+			"away_team": "France",
+			"stage": "Quarterfinal",
+			"seed": 0
+		},
+		{
+			"match_id": 5,
+			"home_team": "Brazil",
+			"away_team": "Belgium",
+			"stage": "Quarterfinal",
+			"seed": 1
+		},
+		{
+			"match_id": 6,
+			"home_team": "Russian Federation",
+			"away_team": "Croatia",
+			"stage": "Quarterfinal",
+			"seed": 2
+		},
+		{
+			"match_id": 7,
+			"home_team": "Sweden",
+			"away_team": "England",
+			"stage": "Quarterfinal",
+			"seed": 3
+		},
+		{
+			"match_id": 8,
+			"home_team": "Uruguay",
+			"away_team": "Portugal",
+			"stage": "Round of 16",
+			"seed": 0
+		},
+		{
+			"match_id": 9,
+			"home_team": "France",
+			"away_team": "Argentina",
+			"stage": "Round of 16",
+			"seed": 1
+		},
+		{
+			"match_id": 10,
+			"home_team": "Brazil",
+			"away_team": "Mexico",
+			"stage": "Round of 16",
+			"seed": 2
+		},
+		{
+			"match_id": 11,
+			"home_team": "Belgium",
+			"away_team": "Japan",
+			"stage": "Round of 16",
+			"seed": 3
+		},
+		{
+			"match_id": 12,
+			"home_team": "Spain",
+			"away_team": "Russian Federation",
+			"stage": "Round of 16",
+			"seed": 4
+		},
+		{
+			"match_id": 13,
+			"home_team": "Croatia",
+			"away_team": "Denmark",
+			"stage": "Round of 16",
+			"seed": 5
+		},
+		{
+			"match_id": 14,
+			"home_team": "Sweden",
+			"away_team": "Switzerland",
+			"stage": "Round of 16",
+			"seed": 6
+		},
+		{
+			"match_id": 15,
+			"home_team": "Colombia",
+			"away_team": "England",
+			"stage": "Round of 16",
+			"seed": 7
+		}
+	]
+}
